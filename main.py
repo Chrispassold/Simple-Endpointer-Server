@@ -2,7 +2,7 @@ from logger import Logger
 from urllib.error import URLError, HTTPError
 from urllib.request import Request, urlopen
 
-logger = Logger("Server-Status", 'server-status.log')
+logger = Logger("Simple-Endpointer-Server", 'simple-endpoint-server.log')
 
 
 def printinfo(value: str):
