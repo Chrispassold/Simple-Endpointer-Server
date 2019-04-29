@@ -1,2 +1,0 @@
-http://localhost:3535/teste
-http://localhost:3535/teste
